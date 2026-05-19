@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<administeredSettingHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <uuid>conf.branding.SYSTEM_BRANDING</uuid>
+    <isDefault>false</isDefault>
+    <systemBranding>
+        <navigationBarColor>
+            <isDefault>true</isDefault>
+        </navigationBarColor>
+        <navigationHighlightColor>
+            <isDefault>true</isDefault>
+        </navigationHighlightColor>
+        <navigationLabelsColor>
+            <isDefault>true</isDefault>
+        </navigationLabelsColor>
+        <filterGroupTitleColor>
+            <isDefault>true</isDefault>
+        </filterGroupTitleColor>
+        <tempoAccentColor>
+            <isDefault>true</isDefault>
+        </tempoAccentColor>
+        <siteName>
+            <isDefault>false</isDefault>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="xsd:string">Appian for DOL - Job Corps National Office - UAT</value>
+        </siteName>
+        <wallpaperColor>
+            <isDefault>true</isDefault>
+        </wallpaperColor>
+        <emailHeaderColor>
+            <isDefault>true</isDefault>
+        </emailHeaderColor>
+        <emailAccentColor>
+            <isDefault>true</isDefault>
+        </emailAccentColor>
+        <logoSource>
+            <isDefault>true</isDefault>
+        </logoSource>
+        <logoUrl>
+            <isDefault>true</isDefault>
+        </logoUrl>
+        <logoAltText>
+            <isDefault>true</isDefault>
+        </logoAltText>
+        <secondaryLogoSource>
+            <isDefault>true</isDefault>
+        </secondaryLogoSource>
+        <secondaryLogoUrl>
+            <isDefault>true</isDefault>
+        </secondaryLogoUrl>
+        <faviconSource>
+            <isDefault>true</isDefault>
+        </faviconSource>
+        <faviconUrl>
+            <isDefault>true</isDefault>
+        </faviconUrl>
+        <bannerColor>
+            <isDefault>false</isDefault>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="xsd:string">#b6d7a8</value>
+        </bannerColor>
+        <bannerTextColor>
+            <isDefault>false</isDefault>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="xsd:string">#434343</value>
+        </bannerTextColor>
+        <bannerMessage>
+            <isDefault>false</isDefault>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="xsd:string">*** UMS UAT ***</value>
+        </bannerMessage>
+        <loadingBarColor>
+            <isDefault>true</isDefault>
+        </loadingBarColor>
+    </systemBranding>
+</administeredSettingHaul>

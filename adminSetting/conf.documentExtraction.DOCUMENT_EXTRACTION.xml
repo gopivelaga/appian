@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<administeredSettingHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <uuid>conf.documentExtraction.DOCUMENT_EXTRACTION</uuid>
+    <isDefault>false</isDefault>
+    <documentExtraction>
+        <inferenceProfiles>
+            <isDefault>false</isDefault>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="xsd:string">{"models":[{"key":"appian/anthropic.claude-3-7-sonnet-20250219-v1:0","selectedProfileKey":"us-gov.anthropic.claude-3-7-sonnet-20250219-v1:0"},{"key":"appian/anthropic.claude-sonnet-4-5-20250929-v1:0","selectedProfileKey":"us-gov.anthropic.claude-sonnet-4-5-20250929-v1:0"}]}</value>
+        </inferenceProfiles>
+        <isDefaultProvider>
+            <isDefault>false</isDefault>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="xsd:boolean">true</value>
+        </isDefaultProvider>
+    </documentExtraction>
+</administeredSettingHaul>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<embeddedSailThemeHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <embeddedSailTheme>
+        <uuid>SYSTEM_EMBEDDED_defaultDesignerTheme</uuid>
+        <themeIdentifier>SYSTEM-embedded-designer-default</themeIdentifier>
+        <name>Default Designer Theme</name>
+        <description></description>
+        <isSystem>true</isSystem>
+        <sailStyle>
+            <name>fontFamily</name>
+            <value></value>
+            <valueExpr></valueExpr>
+        </sailStyle>
+        <sailStyle>
+            <name>accent-color</name>
+            <value>#2322f0</value>
+            <valueExpr></valueExpr>
+        </sailStyle>
+        <sailStyle>
+            <name>background-color</name>
+            <value></value>
+            <valueExpr></valueExpr>
+        </sailStyle>
+        <sailStyle>
+            <name>basefontsize</name>
+            <value></value>
+            <valueExpr></valueExpr>
+        </sailStyle>
+    </embeddedSailTheme>
+</embeddedSailThemeHaul>

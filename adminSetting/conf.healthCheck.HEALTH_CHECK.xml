@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<administeredSettingHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <uuid>conf.healthCheck.HEALTH_CHECK</uuid>
+    <isDefault>false</isDefault>
+    <healthCheck>
+        <isProduction>
+            <isDefault>true</isDefault>
+        </isProduction>
+        <isSchedulingEnabled>
+            <isDefault>true</isDefault>
+        </isSchedulingEnabled>
+        <frequency>
+            <isDefault>true</isDefault>
+        </frequency>
+        <startingDateTime>1970-01-01 00:00:00</startingDateTime>
+        <isAutomaticUploadEnabled>
+            <isDefault>true</isDefault>
+        </isAutomaticUploadEnabled>
+        <username/>
+        <password/>
+    </healthCheck>
+</administeredSettingHaul>

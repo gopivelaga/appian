@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<administeredSettingHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <uuid>conf.security.APPIAN_AUTHENTICATION</uuid>
+    <isDefault>false</isDefault>
+    <appianAuthentication>
+        <minimumPasswordLength>
+            <isDefault>false</isDefault>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="xsd:int">7</value>
+        </minimumPasswordLength>
+        <minimumLowercaseCharacters>
+            <isDefault>true</isDefault>
+        </minimumLowercaseCharacters>
+        <minimumSpecialCharacters>
+            <isDefault>true</isDefault>
+        </minimumSpecialCharacters>
+        <minimumNumericCharacters>
+            <isDefault>false</isDefault>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="xsd:int">1</value>
+        </minimumNumericCharacters>
+        <minimumPasswordAge>
+            <isDefault>true</isDefault>
+        </minimumPasswordAge>
+        <minimumUppercaseCharacters>
+            <isDefault>true</isDefault>
+        </minimumUppercaseCharacters>
+        <minimumAlphabeticCharacters>
+            <isDefault>false</isDefault>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="xsd:int">1</value>
+        </minimumAlphabeticCharacters>
+        <numberPastPasswordsToCheck>
+            <isDefault>false</isDefault>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="xsd:int">4</value>
+        </numberPastPasswordsToCheck>
+        <passwordCannotContainUsername>
+            <isDefault>true</isDefault>
+        </passwordCannotContainUsername>
+        <rememberMeTokenExpiration>
+            <isDefault>true</isDefault>
+        </rememberMeTokenExpiration>
+        <maximumPasswordAge>
+            <isDefault>false</isDefault>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="xsd:int">90</value>
+        </maximumPasswordAge>
+        <maximumTemporaryPasswordAge>
+            <isDefault>true</isDefault>
+        </maximumTemporaryPasswordAge>
+        <warnPasswordPeriod>
+            <isDefault>false</isDefault>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="xsd:int">10</value>
+        </warnPasswordPeriod>
+        <forgotPasswordEnabled>
+            <isDefault>true</isDefault>
+        </forgotPasswordEnabled>
+        <forgotPasswordTokenDurationInMinutes>
+            <isDefault>true</isDefault>
+        </forgotPasswordTokenDurationInMinutes>
+        <mfaEnabled>
+            <isDefault>true</isDefault>
+        </mfaEnabled>
+        <a:uuid>
+            <isDefault>true</isDefault>
+        </a:uuid>
+        <mfaAuthenticatorAppEnabled>
+            <isDefault>true</isDefault>
+        </mfaAuthenticatorAppEnabled>
+        <sessionTimeout>
+            <isDefault>false</isDefault>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="xsd:int">20</value>
+        </sessionTimeout>
+        <adminSessionTimeout>
+            <isDefault>false</isDefault>
+            <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="xsd:int">20</value>
+        </adminSessionTimeout>
+        <lockoutDuration>
+            <isDefault>true</isDefault>
+        </lockoutDuration>
+        <maxConcurrentSessions>
+            <isDefault>true</isDefault>
+        </maxConcurrentSessions>
+        <numberFailedAttemptsBeforeLocking>
+            <isDefault>true</isDefault>
+        </numberFailedAttemptsBeforeLocking>
+        <deactivateAfterInactivity>
+            <isDefault>true</isDefault>
+        </deactivateAfterInactivity>
+        <resetFailedLoginAttemptsCountAfter>
+            <isDefault>true</isDefault>
+        </resetFailedLoginAttemptsCountAfter>
+        <termsOfServiceText>
+            <isDefault>true</isDefault>
+        </termsOfServiceText>
+    </appianAuthentication>
+</administeredSettingHaul>

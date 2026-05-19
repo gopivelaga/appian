@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<administeredSettingHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <uuid>conf.i18n.I18N</uuid>
+    <isDefault>false</isDefault>
+    <i18n>
+        <enabledLanguages>en_US</enabledLanguages>
+        <primaryLanguage>en_US</primaryLanguage>
+        <isLanguageOverrideEnabled>false</isLanguageOverrideEnabled>
+        <primaryCalendar>gregorian</primaryCalendar>
+        <isCalendarOverrideEnabled>false</isCalendarOverrideEnabled>
+        <primaryTimeZone>America/Cancun</primaryTimeZone>
+        <isTimeZoneOverrideEnabled>true</isTimeZoneOverrideEnabled>
+    </i18n>
+</administeredSettingHaul>

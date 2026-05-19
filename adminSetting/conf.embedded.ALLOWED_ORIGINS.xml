@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<administeredSettingHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <uuid>conf.embedded.ALLOWED_ORIGINS</uuid>
+    <isDefault>false</isDefault>
+    <allowedOrigins>
+        <allowedOrigins>localhost:3000</allowedOrigins>
+        <allowedOrigins>localhost:44334</allowedOrigins>
+        <allowedOrigins>login.microsoftonline.com</allowedOrigins>
+        <allowedOrigins>ums-uat-netlogic.azurewebsites.net</allowedOrigins>
+    </allowedOrigins>
+</administeredSettingHaul>

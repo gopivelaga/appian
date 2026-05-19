@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataSourceHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <dataSourceInfo>
+        <uuid>a48dfbf0-79ad-4033-a49c-36cd74627961</uuid>
+        <name>jdbc/Azure Uat</name>
+        <type>SQL Server</type>
+        <connectionString>jdbc:sqlserver://20.122.91.182:1433;database=sqlumsappiandev</connectionString>
+    </dataSourceInfo>
+</dataSourceHaul>

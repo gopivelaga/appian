@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<administeredSettingHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <uuid>conf.designDeployment.DEPLOYMENT</uuid>
+    <isDefault>false</isDefault>
+    <directDeployment/>
+</administeredSettingHaul>
